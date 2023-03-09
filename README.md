@@ -24,6 +24,10 @@ or <a href="mailto:shkalyardata@gmail.com"><b>email</b></a> me.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoThe1st&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Leo's Github Stats">
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=LeoThe1st&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 </br>
 </br>
 <i>Random quote! (create your own by clicking here ↓)</i><br>
