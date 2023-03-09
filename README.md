@@ -10,4 +10,4 @@
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoThe1st&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](?type=horizontal&theme=dark?quote=Your Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
