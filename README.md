@@ -1,40 +1,87 @@
-<div align="center" width="50">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=F70000&background=FFFFFF00&center=true&multiline=true&width=435&lines=Hello%2C+I'm+Leo!" alt="Welcome!" width="435"/>
-
-</div>
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=LeoThe1st)
+```
+██╗     ███████╗ ██████╗
+██║     ██╔════╝██╔═══██╗
+██║     █████╗  ██║   ██║
+██║     ██╔══╝  ██║   ██║
+███████╗███████╗╚██████╔╝
+╚══════╝╚══════╝ ╚═════╝
+```
+
+### hey — i'm Le &nbsp;✦
+
+*frontend developer · pixel perfectionist · happy coder*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=LeoThe1st&color=ff3c3c&style=flat-square&label=visitors)](https://github.com/LeoThe1st)
 
 </div>
-
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Ask me anything <a href="https://github.com/LeoThe1st/LeoThe1st/issues/new"><b>here</b></a><br>
-or <a href="mailto:shkalyardata@gmail.com"><b>email</b></a> me.
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoThe1st&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Leo's Github Stats">
-
-</br>
-</br>
-<i>Random quote! (create your own by clicking here ↓)</i><br>
-<a href="https://github.com/piyushsuthar/github-readme-quotes"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="README Jokes"></a>
 
 ---
 
 <div align="center">
 
-<h3>Languages:</h3>
+```
+> whoami
+```
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
+
+```yaml
+name:     Le
+role:     Frontend Developer
+status:   always building something
+motto:    "a stupid error is an algorithmically avoidable error"
+                                          — Daniel T. Barry
+```
+
+---
+
+<div align="center">
+
+```
+> tech --stack
+```
+
+</div>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> stats --github
+```
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoThe1st&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3c3c&icon_color=ff3c3c&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThe1st&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3c3c&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> contact --reach-me
+```
+
+💬 &nbsp;Ask me anything → [GitHub Discussions](https://github.com/LeoThe1st)
+&nbsp;&nbsp;✉️ &nbsp;Or just email me
+
+*you've discovered my corner of the internet — welcome.*
 
 </div>
