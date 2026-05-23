@@ -1,14 +1,3 @@
-<div align="center">
-
-```
-██╗     ███████╗ ██████╗
-██║     ██╔════╝██╔═══██╗
-██║     █████╗  ██║   ██║
-██║     ██╔══╝  ██║   ██║
-███████╗███████╗╚██████╔╝
-╚══════╝╚══════╝ ╚═════╝
-```
-
 ### hey — i'm Le &nbsp;✦
 
 *frontend developer · pixel perfectionist · happy coder*
@@ -47,27 +36,7 @@ motto:    "a stupid error is an algorithmically avoidable error"
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> stats --github
-```
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoThe1st&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3c3c&icon_color=ff3c3c&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThe1st&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3c3c&text_color=c9d1d9)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -79,8 +48,7 @@ motto:    "a stupid error is an algorithmically avoidable error"
 > contact --reach-me
 ```
 
-💬 &nbsp;Ask me anything → [GitHub Discussions](https://github.com/LeoThe1st)
-&nbsp;&nbsp;✉️ &nbsp;Or just email me
+✈️ &nbsp;[@retrooo000](https://t.me/retrooo000)
 
 *you've discovered my corner of the internet — welcome.*
 
