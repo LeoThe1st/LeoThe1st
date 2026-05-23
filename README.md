@@ -1,6 +1,6 @@
-### hey — i'm Le &nbsp;✦
+### hey — i'm Stepan &nbsp;✦
 
-*frontend developer · pixel perfectionist · happy coder*
+*backend developer · pixel perfectionist · happy coder*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LeoThe1st&color=ff3c3c&style=flat-square&label=visitors)](https://github.com/LeoThe1st)
 
@@ -17,8 +17,8 @@
 </div>
 
 ```yaml
-name:     Le
-role:     Frontend Developer
+name:     Stepan
+role:     Backend Developer
 status:   always building something
 motto:    "a stupid error is an algorithmically avoidable error"
                                           — Daniel T. Barry
@@ -48,7 +48,7 @@ motto:    "a stupid error is an algorithmically avoidable error"
 > contact --reach-me
 ```
 
-✈️ &nbsp;[@retrooo000](https://t.me/retrooo000)
+✈️ &nbsp;[tg: @retrooo000](https://t.me/retrooo000)
 
 *you've discovered my corner of the internet — welcome.*
 
