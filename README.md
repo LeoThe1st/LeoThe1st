@@ -18,7 +18,7 @@
 
 ```yaml
 name:     Stepan
-role:     Backend Developer
+role:     Infosec engineer | Penetration tester
 status:   always building something
 motto:    "a stupid error is an algorithmically avoidable error"
                                           — Daniel T. Barry
